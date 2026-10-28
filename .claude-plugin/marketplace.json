@@ -1,0 +1,15 @@
+{
+  "name": "matutecorp-plugins",
+  "description": "Data engineering planning skills by MatuteCorp95",
+  "owner": {
+    "name": "MatuteCorp95",
+    "url": "https://github.com/MatuteCorp95"
+  },
+  "plugins": [
+    {
+      "name": "pipeline-automation-planner",
+      "source": "./plugins/pipeline-automation-planner",
+      "description": "Plan a recurring data process automation end to end, from how it runs today to small contract-based projects with a manager-ready business case."
+    }
+  ]
+}

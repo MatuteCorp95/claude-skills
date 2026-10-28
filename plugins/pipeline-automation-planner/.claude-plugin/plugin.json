@@ -1,0 +1,8 @@
+{
+  "name": "pipeline-automation-planner",
+  "displayName": "Pipeline Automation Planner",
+  "version": "1.0.0",
+  "description": "Plan the automation of a recurring data process or pipeline: conversational current-state intake, stress test, current-state diagram, then a modular contract-based target design weighed on scalability, ROI, currency, security and AI fit for a solo builder, ending in a manager-ready plan.",
+  "author": { "name": "MatuteCorp95", "url": "https://github.com/MatuteCorp95" },
+  "license": "MIT"
+}
